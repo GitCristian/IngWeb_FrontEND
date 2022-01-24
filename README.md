@@ -1,7 +1,7 @@
 # IngWeb_FrontEND
 Repositorio con el proyecto de Front-End realizado para Ingeniería Web. 
 
-El tema del proyecto web es el de un pequeño comercio que vende artículos tecnológicos vía online. Entre ellos se pueden encontrar consolas, equipos informáticos, videojuegos, etc. Su nombre es DJComponentes.ç
+El tema del proyecto web es el de un pequeño comercio que vende artículos tecnológicos vía online. Entre ellos se pueden encontrar consolas, equipos informáticos, videojuegos, etc. Su nombre es DJComponentes.
 
 Código (24/01/2022) -> Prototipo 4: https://github.com/GitCristian/django-deployment-example
 
