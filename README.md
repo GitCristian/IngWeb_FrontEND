@@ -5,7 +5,7 @@ El tema del proyecto web es el de un pequeño comercio que vende artículos tecn
 
 Dirección IP del sitio: http://99cristianb.pythonanywhere.com
 
-![Logo_DJComponentes](https://user-images.githubusercontent.com/79966138/148264302-67313aef-9701-4a59-91df-250c202fc5ac.JPG = 300x200)
+![Logo_DJComponentes](https://user-images.githubusercontent.com/79966138/150767044-57faab2a-42c8-4adb-9a07-edf66946bc4c.JPG)
 
 
 Código: https://github.com/GitCristian/django-deployment-example
