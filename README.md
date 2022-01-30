@@ -7,7 +7,7 @@ Código (30/01/2022) -> https://github.com/GitCristian/codigo_frontend
 <br><br><br>
 
 APLICACIÓN ANTIGUA (local storage) <br>
-Código (24/01/2022) -> Prototipo 4: https://github.com/GitCristian/django-deployment-example
+Código (24/01/2022) -> Prototipo 4: https://github.com/GitCristian/django-deployment-example <br>
 Dirección IP del sitio (24/01/2022): http://99cristianb.pythonanywhere.com
 
 ![Logo_DJComponentes](https://user-images.githubusercontent.com/79966138/150767044-57faab2a-42c8-4adb-9a07-edf66946bc4c.JPG)
