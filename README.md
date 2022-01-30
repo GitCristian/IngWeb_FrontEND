@@ -6,7 +6,7 @@ El tema del proyecto web es el de un pequeño comercio que vende artículos tecn
 Código (30/01/2022) -> https://github.com/GitCristian/codigo_frontend
 
 
-APLICACIÓN ANTIGUA (local storage)
+APLICACIÓN ANTIGUA (local storage) <br>
 Código (24/01/2022) -> Prototipo 4: https://github.com/GitCristian/django-deployment-example
 Dirección IP del sitio (24/01/2022): http://99cristianb.pythonanywhere.com
 
