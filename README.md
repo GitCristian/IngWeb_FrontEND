@@ -6,9 +6,9 @@ El tema del proyecto web es el de un sitio web donde se pueden vender y comprar 
 
 APLICACIÓN FINAL (contenido dinámico) <br>
 Código (30/01/2022) -> https://github.com/GitCristian/codigo_frontend <br>
-Dirección IP del sitio: http://759210.pythonanywhere.com/ <br>
-Acceso Administrador: (admin/password); <br> 
-Acceso Usuarios normales: (prueba/wGDw2xsnprueba), (consolas/wGDw2xsnconsolas), (joaquín/wGDw2xsnjoaquin), (prueba2/wGDw2xsnprueba2), (gerardo/wGDw2xsngerardo), (antonio/wGDw2xsnantonio);
+Dirección IP del sitio -> http://759210.pythonanywhere.com/ <br>
+Acceso Usuarios Vendedores: (prueba/wGDw2xsnprueba), (consolas/wGDw2xsnconsolas), (joaquín/wGDw2xsnjoaquin), (prueba2/wGDw2xsnprueba2), (gerardo/wGDw2xsngerardo), (antonio/wGDw2xsnantonio);
+Acceso Portal Administrador: (admin/password);
 <br><br><br>
 
 APLICACIÓN ANTIGUA (contenido estático) <br>
