@@ -4,7 +4,7 @@ Repositorio con el proyecto de Front-End realizado para Ingeniería Web.
 
 El tema del proyecto web es el de un pequeño comercio que vende artículos tecnológicos vía online. Entre ellos se pueden encontrar consolas, equipos informáticos, videojuegos, etc. Su nombre es DJComponentes.
 
-APLICACIÓN ANTIGUA (contenido dinámico) <br>
+APLICACIÓN NUEVA (contenido dinámico) <br>
 Código (30/01/2022) -> https://github.com/GitCristian/codigo_frontend
 Dirección IP del sitio: http://759210.pythonanywhere.com/
 <br><br><br><br>
