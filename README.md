@@ -2,7 +2,7 @@
 ![Logo_DJComponentes](https://user-images.githubusercontent.com/79966138/150767044-57faab2a-42c8-4adb-9a07-edf66946bc4c.JPG) <br>
 Repositorio con el proyecto de Front-End realizado para Ingeniería Web. 
 
-El tema del proyecto web es el de un pequeño comercio que vende artículos tecnológicos vía online. Entre ellos se pueden encontrar consolas, equipos informáticos, videojuegos, etc. Su nombre es DJComponentes.<br><br>
+El tema del proyecto web es el de un sitio web donde se pueden vender y comprar artículos tecnológicos vía online. Entre ellos se pueden encontrar consolas, equipos informáticos, videojuegos, etc. Su nombre es DJComponentes.<br><br>
 
 APLICACIÓN NUEVA (contenido dinámico) <br>
 Código (30/01/2022) -> https://github.com/GitCristian/codigo_frontend
